@@ -24,7 +24,8 @@
     ]
     ,
     "props":{
-      "verticalAlign":"Center"
+      "verticalAlign":"CENTER",
+      "preventVerticalStretch":"CENTER"
     }
   },
   "product-price":{
